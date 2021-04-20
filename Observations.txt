@@ -1,0 +1,5 @@
+Observations about the data
+* Other drugs have an average of 2-3 times metastatic sites.
+* But Capomulin and Ramicane seem to reduce the average number of metastatic sites by 1.5 and 1.25 respectively.
+* Treatment with both Capomulin and Ramicane yielded a survival rate of 84% and 80% amonsgt mice over a 45 day period, rate that is higher than other drugs. 
+* The bar graph show that Capomulin and Ramicane have the most positive results in reduction of tumor size over a forty five day period of time.
