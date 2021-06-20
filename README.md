@@ -11,3 +11,4 @@ Using Matplotlib, generate a box and whisker plot of the final tumor volume for 
 - Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 - Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+![image](https://user-images.githubusercontent.com/75787486/122659872-1d0b5880-d14a-11eb-9f2f-855973240d6b.png)
